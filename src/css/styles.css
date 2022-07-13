@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 400px;
+}
+
+.main-container{
+    width: '100vw';
+    height: '300vw';
+    
+    padding: 1rem;
+}
+body{
+    background-image: url('../images/back/scrollback.jpg');
+    background-size: 4vw;
+}
+
+.logo{
+    margin-bottom: 300px;
+    border: 5px solid yellow;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
+.svitok{
+    width: 85vh;
+    height: 52vh;
+    
+   
+}
+
+.imgname{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid gold;
+    border-radius: 30px;
+}
+
+.name{
+    width: 47vh;
+    height: 8vh;
+}
+
+
+
+
+
+
+.img-wrap {
+    position: relative;
+    height: 100%;
+    max-height: 60vw;  }
+  
+.img-wrap h3 {
+  position: absolute;
+  left: 0;
+  bottom: 5vh;
+  width: 100%;
+}
+
+.img-responsive{
+    
+}
+ 
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 300px;
+}
+
+.bgimage{
+    background-image: url('../images/back/namebar.png');
+    background-size: cover;
+
+}
+.photoandname{
+    width: 25%;
+    border: 7px solid black;
+    border-radius: 10px;
+}
+.prices{
+    background-image: url('../images/back/svitok.png') ;
+    background-size: cover;
+    width: 30%;
+    background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+.levels{
+    background-image: url('../images/back/eliteRestaurantUnderWater.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+
+.levels1{
+    background-image: url('../images/back/eliteRestaurantUnderWaterr.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.levels0{
+    background-image: url('../images/back/palatka.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.levels3{
+    background-image: url('../images/back/palatkaluchshe.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.levels4{
+    background-image: url('../images/back/superEliteToy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.levels5{
+    background-image: url('../images/back/eliteToy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.levels85{
+    background-image: url('../images/back/DinnerIntTheSky.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.levels8{
+    background-image: url('../images/back/kafe.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.levels9{
+    background-image: url('../images/back/sredniyKazakhskiyToy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.levels10{
+    background-image: url('../images/back/restoraunt.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.levels11{
+    background-image: url('../images/back/eliteToy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.nachalo{
+    background-image: url('../images/back/nachalo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+.levels15{
+    background-image: url('../images/back/ToyVIurte.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
